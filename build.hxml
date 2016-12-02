@@ -1,0 +1,5 @@
+-main Test
+-cpp bin
+# -cmd bin/Test
+# -cmd bin/Test-debug
+# -D no-debug
